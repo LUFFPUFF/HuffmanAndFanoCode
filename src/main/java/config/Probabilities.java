@@ -5,16 +5,16 @@ import java.util.List;
 
 public class Probabilities {
 
-    public static final double p_z1 = 0.274;
-    public static final double p_z2 = 0.09;
-    public static final double p_z3 = 0.1;
-    public static final double p_z4 = 0.115;
-    public static final double p_z5 = 0.19;
-    public static final double p_z6 = 0.09;
-    public static final double p_z7 = 0.034;
-    public static final double p_z8 = 0.022;
-    public static final double p_z9 = 0.025;
-    public static final double p_z10 = 0.06;
+    public static final double p_z1 = 0.147;
+    public static final double p_z2 = 0.27;
+    public static final double p_z3 = 0.025;
+    public static final double p_z4 = 0.1;
+    public static final double p_z5 = 0.16;
+    public static final double p_z6 = 0.024;
+    public static final double p_z7 = 0.028;
+    public static final double p_z8 = 0.146;
+    public static final double p_z9 = 0.038;
+    public static final double p_z10 = 0.062;
 
     public static List<Double> getProbabilities() {
         return new ArrayList<>(List.of(
